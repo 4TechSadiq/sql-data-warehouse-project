@@ -1,0 +1,9 @@
+CREATE DATABASE DataHareHouse;
+GO
+USE DataHareHouse;
+GO
+CREATE SCHEMA bronze;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold;
